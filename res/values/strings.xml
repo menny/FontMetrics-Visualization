@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FontMetrics</string>
+    
+    <string name="info_text"><u>baseline:</u> The base of your font drawing. Your text will be drawn ABOVE this X.\n<u>top:</u> The maximum distance above the baseline for the tallest glyph. Since it is ABOVE the baseline, it is a negative value!\n<u>ascent:</u> This is the recommended space above the baseline you should make for a line of this text. Again, above the baseline, so negative.\n<u>descent:</u> This is the recommended space below the baseline you should keep for text, since some characters (e.g, y) are drawn some below the baseline.\n<u>bottom:</u> this is the lowest glyph space below the baseline.</string>
+</resources>

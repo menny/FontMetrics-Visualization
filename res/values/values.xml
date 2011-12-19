@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="demo_text_size">80sp</dimen>
+    <dimen name="info_text_size">14sp</dimen>
+    <dimen name="osd_text_size">10sp</dimen>
+</resources>
